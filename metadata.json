@@ -1,0 +1,8 @@
+{
+  "name": "Re:leaf",
+  "description": "KBO 리그 폐자재(배트, 공가죽, 은퇴 유니폼)를 한 시즌의 서사가 담긴 프리미엄 업사이클링 굿즈로 되살리는 D2C 프리미엄 커머스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
